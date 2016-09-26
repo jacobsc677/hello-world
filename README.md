@@ -1,9 +1,9 @@
 # hello-world
 Default repository
 
-<?php
-define("TEXT", 'Writing a bit about meself!');
+<?php define("GREETING", 'Writing a bit about meself!');
 
-echo $text;
+echo GREETING;
 
 ?>
+
